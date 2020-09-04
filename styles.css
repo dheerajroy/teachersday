@@ -99,8 +99,9 @@ form{
 h1{
     font-size: calc(11px + 5vw);
     text-align: left;
-    color: transparent;
-    text-shadow: 0px 0px 3px #fff;
+    /* color: transparent; */
+    color: white;
+    /* text-shadow: 0px 0px 3px #fff; */
 }
 
 #text{
